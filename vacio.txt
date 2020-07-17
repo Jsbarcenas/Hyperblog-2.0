@@ -4,6 +4,7 @@ Se siente enfermo. Quiere aceptar que está enfermo. Pero es enfermo de no acept
 
 A día de hoy considera que sus problemas son solucionables,pero la solución está dentro de sus problemas 
 
+Para probar 'git rebase'
 
 Sigufdsafadsfasdfieron pasando las idas a trabajar y estudiar, las visitas al dentista, los viajes a visitar familiares en 
 otros países... La pesadumbre de su pasado nunca se hizo ni un ápice de grano de arena más liviana.
